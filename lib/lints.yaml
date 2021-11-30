@@ -1,5 +1,7 @@
 linter:
   rules:
+    # Error Rules
+
     # https://dart-lang.github.io/linter/lints/always_use_package_imports.html
     always_use_package_imports: false
     # https://dart-lang.github.io/linter/lints/avoid_dynamic_calls.html
@@ -68,6 +70,9 @@ linter:
     use_key_in_widget_constructors: true
     # https://dart-lang.github.io/linter/lints/valid_regexps.html
     valid_regexps: true
+
+    # Style Rules
+
     # https://dart-lang.github.io/linter/lints/always_declare_return_types.html
     always_declare_return_types: true
     # https://dart-lang.github.io/linter/lints/always_put_control_body_on_new_line.html
@@ -394,6 +399,9 @@ linter:
     use_to_and_as_if_applicable: true
     # https://dart-lang.github.io/linter/lints/void_checks.html
     void_checks: true
+
+    # Pub Rules
+
     # https://dart-lang.github.io/linter/lints/depend_on_referenced_packages.html
     depend_on_referenced_packages: true
     # https://dart-lang.github.io/linter/lints/package_names.html
