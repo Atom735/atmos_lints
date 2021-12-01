@@ -1,6 +1,6 @@
 name: atmos_lints
 version: 0.0.1
-# homepage: https://www.example.com
+publish_to: none
 
 environment:
   sdk: '>=2.14.4 <3.0.0'

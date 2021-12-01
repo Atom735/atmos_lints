@@ -120,7 +120,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/avoid_null_checks_in_equality_operators.html
     avoid_null_checks_in_equality_operators: true
     # https://dart-lang.github.io/linter/lints/avoid_positional_boolean_parameters.html
-    avoid_positional_boolean_parameters: true
+    avoid_positional_boolean_parameters: false
     # https://dart-lang.github.io/linter/lints/avoid_private_typedef_functions.html
     avoid_private_typedef_functions: true
     # https://dart-lang.github.io/linter/lints/avoid_redundant_argument_values.html
@@ -226,7 +226,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/package_prefixed_library_names.html
     package_prefixed_library_names: true
     # https://dart-lang.github.io/linter/lints/parameter_assignments.html
-    parameter_assignments: true
+    parameter_assignments: false
     # https://dart-lang.github.io/linter/lints/prefer_adjacent_string_concatenation.html
     prefer_adjacent_string_concatenation: true
     # https://dart-lang.github.io/linter/lints/prefer_asserts_in_initializer_lists.html
@@ -308,7 +308,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/provide_deprecation_message.html
     provide_deprecation_message: true
     # https://dart-lang.github.io/linter/lints/public_member_api_docs.html
-    public_member_api_docs: true
+    public_member_api_docs: false
     # https://dart-lang.github.io/linter/lints/recursive_getters.html
     recursive_getters: true
     # https://dart-lang.github.io/linter/lints/require_trailing_commas.html
