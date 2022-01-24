@@ -31,7 +31,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/control_flow_in_finally.html
     control_flow_in_finally: true
     # https://dart-lang.github.io/linter/lints/diagnostic_describe_all_properties.html
-    diagnostic_describe_all_properties: true
+    diagnostic_describe_all_properties: false
     # https://dart-lang.github.io/linter/lints/empty_statements.html
     empty_statements: true
     # https://dart-lang.github.io/linter/lints/hash_and_equals.html
@@ -88,7 +88,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/avoid_annotating_with_dynamic.html
     avoid_annotating_with_dynamic: true
     # https://dart-lang.github.io/linter/lints/avoid_as.html
-    avoid_as (deprecated): true
+    # avoid_as (deprecated): true
     # https://dart-lang.github.io/linter/lints/avoid_bool_literals_in_conditional_expressions.html
     avoid_bool_literals_in_conditional_expressions: true
     # https://dart-lang.github.io/linter/lints/avoid_catches_without_on_clauses.html
@@ -326,7 +326,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/sort_unnamed_constructors_first.html
     sort_unnamed_constructors_first: true
     # https://dart-lang.github.io/linter/lints/super_goes_last.html
-    super_goes_last (deprecated): true
+    # super_goes_last (deprecated): true
     # https://dart-lang.github.io/linter/lints/tighten_type_of_initializing_formals.html
     tighten_type_of_initializing_formals: true
     # https://dart-lang.github.io/linter/lints/type_annotate_public_apis.html
