@@ -158,9 +158,11 @@ linter:
     # https://dart-lang.github.io/linter/lints/cascade_invocations.html
     cascade_invocations: true
     # https://dart-lang.github.io/linter/lints/cast_nullable_to_non_nullable.html
-    cast_nullable_to_non_nullable (experimental): true
+    cast_nullable_to_non_nullable (experimental): true    
+    # https://dart-lang.github.io/linter/lints/conditional_uri_does_not_exist.html
+    conditional_uri_does_not_exist: true
     # https://dart-lang.github.io/linter/lints/constant_identifier_names.html
-    constant_identifier_names: true
+    constant_identifier_names: true    
     # https://dart-lang.github.io/linter/lints/curly_braces_in_flow_control_structures.html
     curly_braces_in_flow_control_structures: true
     # https://dart-lang.github.io/linter/lints/deprecated_consistency.html
