@@ -1,9 +1,10 @@
-# instal
+# Atmos Lints Package
+
+## instal
 
 ```yaml
 dev_dependencies:
-  atmos_lints:
-    git: git@github.com:Atom735/atmos_lints.git
+  atmos_lints: ^0.16.1
 ```
 
 ## analysis_options.yaml
