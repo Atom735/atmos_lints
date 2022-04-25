@@ -1,5 +1,9 @@
 # Changes
 
+## 0.16.2
+
+- Add new lints file for import `lints_2.yaml`
+
 ## 0.16.1
 
 - Set last Dart SDK (2.16.1) dependecy
