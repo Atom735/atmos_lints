@@ -1,5 +1,11 @@
 # Changes
 
+## 1.0.0
+
+- Set last Dart SDK (2.17.0) dependecy
+- Add new lints file for import `full.yaml`
+- Sync `full.yaml` lints with __linter__ rules [1.28.0](https://pub.dev/packages/linter/versions)
+
 ## 0.16.2
 
 - Add new lints file for import `lints_2.yaml`
