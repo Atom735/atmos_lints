@@ -1,5 +1,9 @@
 # Changes
 
+## 1.0.1
+
+- disable `prefer_expression_function_bodies` lint
+
 ## 1.0.0
 
 - Set last Dart SDK (2.17.0) dependecy

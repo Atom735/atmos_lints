@@ -6,7 +6,7 @@ Add dependency to `pubspec.yaml`
 
 ```yaml
 dev_dependencies:
-  atmos_lints: ^1.0.0
+  atmos_lints: 1.0.1
 ```
 
 Include full lints in `analysis_options.yaml`

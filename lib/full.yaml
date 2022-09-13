@@ -267,7 +267,7 @@ linter:
     # https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html
     prefer_equal_for_default_values: true
     # https://dart-lang.github.io/linter/lints/prefer_expression_function_bodies.html
-    prefer_expression_function_bodies: true
+    prefer_expression_function_bodies: false
     # https://dart-lang.github.io/linter/lints/prefer_final_fields.html
     prefer_final_fields: true
     # https://dart-lang.github.io/linter/lints/prefer_final_in_for_each.html
